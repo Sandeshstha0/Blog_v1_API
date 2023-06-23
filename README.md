@@ -405,9 +405,13 @@ Example request body:
 | `authentication` | `string` | Your token     | yes      |
 | `id`             | `string` | ID of the post | yes      |
 
+## Feedback
+
+If you have any feedback, please reach out to me at sandeshstha519@gmail.com
+
 ## 🔗 Social Links
 
 [![facebook](https://img.shields.io/badge/facebook-Code?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/sandesh.stha.1)
 
-[![youtube](https://img.shields.io/badge/youtube-Code?style=for-the-badge&logo=youtube&logoColor=redk&color=red)](https://www.youtube.com/@inovotek-academy)
+[![linkedin](https://img.shields.io/badge/linkedin-Code?style=for-the-badge&logo=linkedin&logoColor=redk&color=red)](https://www.youtube.com/@inovotek-academy)
   
