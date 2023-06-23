@@ -404,4 +404,10 @@ Example request body:
 | :--------------- | :------- | :------------- | :------- |
 | `authentication` | `string` | Your token     | yes      |
 | `id`             | `string` | ID of the post | yes      |
+
+## 🔗 Social Links
+
+[![facebook](https://img.shields.io/badge/facebook-Code?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/sandesh.stha.1)
+
+[![youtube](https://img.shields.io/badge/youtube-Code?style=for-the-badge&logo=youtube&logoColor=redk&color=red)](https://www.youtube.com/@inovotek-academy)
   
