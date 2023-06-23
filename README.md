@@ -28,7 +28,7 @@ __server:__  Node, Express, MongoDB, Mongoose, JWT
 - A user can close his/her account
 
 # EndPoint
-- [API Authentication](https://www.github.com/octokatherine)
+- [API Authentication](#API-Authentication)
    
    - [Register a new API client](https://www.github.com/octokatherine)
    - [login](https://www.github.com/octokatherine)
@@ -57,3 +57,10 @@ __server:__  Node, Express, MongoDB, Mongoose, JWT
   __Example__:
 
   `Authorization: Bearer YOUR TOKEN`
+
+  ## Register a new API client
+  ```http
+  POST /api/v1/users/register
+  ```
+ The request body needs to be in JSON format.
+  
