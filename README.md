@@ -413,5 +413,5 @@ If you have any feedback, please reach out to me at sandeshstha519@gmail.com
 
 [![facebook](https://img.shields.io/badge/facebook-Code?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/sandesh.stha.1)
 
-[![linkedin](https://img.shields.io/badge/linkedin-Code?style=for-the-badge&logo=linkedin&logoColor=redk&color=red)](https://www.youtube.com/@inovotek-academy)
+[![linkedin](https://img.shields.io/badge/linkedin-Code?style=for-the-badge&logo=linkedin&logoColor=redk&color=red)](https://www.linkedin.com/in/sandesh-stha-a51302186/)
   
